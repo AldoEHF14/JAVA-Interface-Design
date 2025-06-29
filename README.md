@@ -1,6 +1,6 @@
 # Sistema de Gestión de Alumnos (Java + Swing + MySQL)
 
-Este proyecto es una aplicación de escritorio desarrollada en Java utilizando **Swing** para la interfaz gráfica y **MySQL** como sistema gestor de base de datos. Su objetivo principal es permitir la gestión de registros de alumnos (crear, consultar,visualizar tabla , actualizar y eliminar) de forma sencilla desde una interfaz visual amigable.
+Aplicación de escritorio desarrollada en Java utilizando **Swing** para la interfaz gráfica y **MySQL** como sistema gestor de base de datos. Permitir la gestión de registros de alumnos (crear, consultar,visualizar tabla , actualizar y eliminar) de forma sencilla desde una interfaz visual.
 
 ## 🧩 Características
 
@@ -27,7 +27,6 @@ CREATE TABLE alumnos (
     Grupo INT
 );
 ```
-
 
 > “Nota: Asegurate de que la conexion a tu base de datos sea correcta (user,pass)”
 
