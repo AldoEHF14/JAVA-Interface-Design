@@ -12,14 +12,6 @@ Este proyecto es una aplicación de escritorio desarrollada en Java utilizando *
 - 🧼 Botón "Limpiar" para resetear campos del formulario.
 - 💻 Interfaz hecha con `Swing` en NetBeans.
 
-## 🛠️ Tecnologías
-
-- Java SE 8+
-- Swing (GUI)
-- MySQL / MariaDB
-- JDBC Driver (`mysql-connector-java`)
-- NetBeans IDE
-
 ## ⚙️ Configuración
 
 1. Crea la base de datos en XAMPP o simplemete bajarla del repositorio (alumnosbd.sql):
