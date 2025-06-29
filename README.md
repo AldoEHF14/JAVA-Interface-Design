@@ -5,10 +5,10 @@ Este proyecto es una aplicación de escritorio desarrollada en Java utilizando *
 ## 🧩 Características
 
 - ✅ Conexión segura a base de datos MySQL usando `PreparedStatement`.
-- 📝 Inserción de nuevos registros de alumnos.
-- 🔍 Consulta por ID o mostrar todos los registros (opcional).
+- 📝 Añadir nuevos registros de alumnos.
+- 🔍 Consulta por ID o mostrar todos los registros.
 - ✏️ Actualización de nombre de alumno mediante su ID.
-- 🗑️ Eliminación con validación: muestra mensaje si el ID no existe.
+- 🗑️ Eliminación con validación.
 - 🧼 Botón "Limpiar" para resetear campos del formulario.
 - 💻 Interfaz hecha con `Swing` en NetBeans.
 
