@@ -10,7 +10,6 @@ Aplicación de escritorio desarrollada en Java utilizando **Swing** para la inte
 - ✏️ Actualización de nombre de alumno mediante su ID.
 - 🗑️ Eliminación con validación.
 - 🧼 Botón "Limpiar" para resetear campos del formulario.
-- 💻 Interfaz hecha con `Swing` en NetBeans.
 
 ## ⚙️ Configuración
 
