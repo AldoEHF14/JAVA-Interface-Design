@@ -37,7 +37,7 @@ CREATE TABLE alumnos (
 ```
 
 
-> “Nota: Asegurate de que la conexion a tu base de datos sea correcta (User,Pass)”
+> “Nota: Asegurate de que la conexion a tu base de datos sea correcta (user,pass)”
 
 
 
