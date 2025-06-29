@@ -20,10 +20,9 @@ Este proyecto es una aplicación de escritorio desarrollada en Java utilizando *
 - JDBC Driver (`mysql-connector-java`)
 - NetBeans IDE
 
-
 ## ⚙️ Configuración
 
-1. Crea la base de datos en MySQL:
+1. Crea la base de datos en XAMPP o simplemete bajarla del repositorio:
 
 ```sql
 
