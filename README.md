@@ -22,7 +22,7 @@ Este proyecto es una aplicación de escritorio desarrollada en Java utilizando *
 
 ## ⚙️ Configuración
 
-1. Crea la base de datos en XAMPP o simplemete bajarla del repositorio:
+1. Crea la base de datos en XAMPP o simplemete bajarla del repositorio (alumnosbd.sql):
 
 ```sql
 
