@@ -8,7 +8,7 @@ Aplicación de escritorio desarrollada en Java utilizando **Swing** para la inte
 - 📝 Añadir nuevos registros.
 - 🔍 Consulta por ID o mostrar todos los registros.
 - ✏️ Actualización de nombre de alumno mediante su ID.
-- 🗑️ Eliminación con validación.
+- 🗑️ Eliminación aluno mediante su ID.
 
 ## ⚙️ Configuración
 
