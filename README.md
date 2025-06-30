@@ -5,11 +5,10 @@ Aplicación de escritorio desarrollada en Java utilizando **Swing** para la inte
 ## 🧩 Características
 
 - ✅ Conexión a la base de datos.
-- 📝 Añadir nuevos registros de alumnos.
+- 📝 Añadir nuevos registros.
 - 🔍 Consulta por ID o mostrar todos los registros.
 - ✏️ Actualización de nombre de alumno mediante su ID.
 - 🗑️ Eliminación con validación.
-- 🧼 Botón "Limpiar" para resetear campos del formulario.
 
 ## ⚙️ Configuración
 
