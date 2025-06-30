@@ -2,17 +2,17 @@
 
 Aplicación de escritorio desarrollada en Java utilizando **Swing** para la interfaz gráfica y **MySQL** como sistema gestor de base de datos. Permitir la gestión de registros de alumnos (crear, consultar,visualizar tabla , actualizar y eliminar) de forma sencilla desde una interfaz visual.
 
-## 🧩 Características
+## Características
 
 - ✅ Conexión a la base de datos.
 - 📝 Añadir nuevos registros.
 - 🔍 Consulta por ID o mostrar todos los registros.
 - ✏️ Actualización de nombre de alumno mediante su ID.
-- 🗑️ Eliminación aluno mediante su ID.
+- 🗑️ Eliminación alunmo mediante su ID.
 
-## ⚙️ Configuración
+## Configuración
 
-1. Crea la base de datos en XAMPP o simplemete bajarla del repositorio (alumnosbd.sql):
+1. Crea la base de datos en XAMPP o simplemete descarga alumnosbd.sql:
 
 ```sql
 
