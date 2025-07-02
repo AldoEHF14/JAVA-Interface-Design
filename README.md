@@ -1,4 +1,4 @@
-# Sistema de Gestión de Alumnos (Java + Swing + MySQL)
+# Sistema de Gestión de Registro
 
 Aplicación de escritorio desarrollada en Java utilizando **Swing** para la interfaz gráfica y **MySQL** como sistema gestor de BD. Permitir la gestión de registros de alumnos (crear, consultar,visualizar registros , actualizar y eliminar) de forma sencilla desde una interfaz visual.
 
