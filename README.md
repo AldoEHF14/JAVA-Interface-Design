@@ -8,7 +8,7 @@ Aplicación de escritorio desarrollada en Java utilizando **Swing** para la inte
 - ✏️ Actualización de nombre de alumno mediante su ID.
 - 🗑️ Eliminación alumno mediante su ID.
 
-## Configuración
+## Configuración de la BD
 
 1. Crea la base de datos en XAMPP o simplemete descarga alumnosbd.sql:
 
