@@ -1,12 +1,13 @@
 # Gestión de Registro
 
-Aplicación de escritorio desarrollada en Java utilizando **Swing** para la interfaz gráfica y **MySQL** como sistema gestor de BD. Permitir la gestión de registros de alumnos (crear, consultar,visualizar registros , actualizar y eliminar) de forma sencilla desde una interfaz visual.
+Aplicación de escritorio desarrollada en Java utilizando **Swing** para la interfaz gráfica y **MySQL** como sistema gestor de BD.
 
 ## Descripcion
+Permitir la gestión de registros de alumnos de forma sencilla desde una interfaz visual, esa funcionalidades son:
 
 - ✅ Conexión a la base de datos.
 - 📝 Añadir nuevos registros.
-- 🔍 Consulta por ID o mostrar todos los registros.
+- 🔍 Consulta por ID o mostrar todos los registros en la BD.
 - ✏️ Actualización de nombre de alumno mediante su ID.
 - 🗑️ Eliminación alumno mediante su ID.
 
