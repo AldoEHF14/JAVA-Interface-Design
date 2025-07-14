@@ -1,7 +1,7 @@
 # Gestión de Registro
 ## Descripción
 
-Aplicación de escritorio desarrollada en Java utilizando **Swing** para la interfaz gráfica y **MySQL** como sistema gestor de BD. Permitir la gestión de registros atraves de una conexión a la base de datos de forma sencilla desde una interfaz visual como:
+Aplicación de escritorio desarrollada en Java utilizando **Swing** para la interfaz gráfica y **MySQL** como sistema gestor de BD. Permitir la gestión de registros atraves de una conexión a la base de datos de forma sencilla desde una interfaz visual, esta nos permite:
 
 - 📝 Añadir nuevos registros.
 - 🔍 Consulta por ID o mostrar todos los registros en la BD.
